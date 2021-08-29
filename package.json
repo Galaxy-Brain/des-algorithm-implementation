@@ -1,0 +1,15 @@
+{
+  "name": "des-algorithm-implementation",
+  "version": "1.0.0",
+  "description": "The implementation of message decryption using DES in JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "des",
+    "algorithm"
+  ],
+  "author": "Steve Nyanumba",
+  "license": "ISC"
+}

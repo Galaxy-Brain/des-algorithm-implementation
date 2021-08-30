@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "C:/Users/Steve Nyanumba/Desktop/DES/database/database.sqlite",
+    "host": "C:/Users/Steve Nyanumba/Desktop/DES/database/database.sqlite",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "C:/Users/Steve Nyanumba/Desktop/DES/database/database.sqlite",
+    "host": "C:/Users/Steve Nyanumba/Desktop/DES/database/database.sqlite",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "C:/Users/Steve Nyanumba/Desktop/DES/database/database.sqlite",
+    "host": "C:/Users/Steve Nyanumba/Desktop/DES/database/database.sqlite",
+    "dialect": "sqlite"
+  }
+}
